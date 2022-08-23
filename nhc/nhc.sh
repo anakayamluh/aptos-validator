@@ -2,9 +2,9 @@
 
 
 CONFYAML="roomit-aptos-checker"
-CONFYAMLPRETTY="RoomIT Aptos Nodes"
+CONFYAMLPRETTY="Anakayamluh Aptos Nodes"
 KINDNODE="validator" #validator or fullnode
-URL="http://cikuray.roomit.xyz/"
+URL="http://anakayamluh.duckdns.org/"
 CHAINID=43
 OPTIONS=$1
 

@@ -4,7 +4,7 @@
 #
 #
 
-USER="gneareth"
+USER="anakayamluh"
 
 apt-get update -y
 apt-get install \
